@@ -1,6 +1,6 @@
 # 💫 About Me:
 # I am Gitanjali Mankar
-Embedded systems and data analytics projects, including a Gesture-Controlled Robot and interactive Power BI dashboards for business insights.<br>Data analytics, Power BI dashboard development, SQL-based analysis, embedded systems, IoT, and hardware-based projects.<br>Advanced Power BI DAX, real-world data analytics use cases, and optimizing embedded systems for practical deployment.<br>Advanced data analytics, Power BI, MATLAB, Network Security, and improving hands-on skills in embedded system design.<br>Data analytics, Power BI, SQL, data visualization, embedded systems, PCB designing, Arduino projects, and electronics-based projects.<br>I enjoy combining data analytics and electronics with creativity—whether it’s dashboards, event management as a Creative Head, or canvas art 🎨<br>
+Embedded systems and data analytics projects, including a Gesture-Controlled Robot and interactive Power BI dashboards for business insights.<br>Data analytics, Power BI dashboard development, SQL-based analysis, embedded systems, IoT, and hardware-based projects.<br>Advanced Power BI DAX, real-world data analytics use cases, and optimizing embedded systems for practical deployment.<br>Advanced data analytics, Power BI, MATLAB, Network Security, and improving hands-on skills in embedded system design.<br>Data analytics, Power BI, SQL, data visualization, embedded systems, PCB designing, Arduino projects, and electronics-based projects.<br>I enjoy combining data analytics and electronics with creativity—whether it’s dashboards, event management as a Creative Head, or canvas art <br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,6 @@ Embedded systems and data analytics projects, including a Gesture-Controlled Rob
 ![](https://nirzak-streak-stats.vercel.app/?user=gita-mankar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gita-mankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=gita-mankar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
